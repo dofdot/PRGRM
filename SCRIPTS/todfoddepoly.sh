@@ -1,0 +1,1 @@
+rsync -avz --delete index.html index.js styles.css root@todfod.xyz:/var/www/todfod
