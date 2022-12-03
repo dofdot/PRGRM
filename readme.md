@@ -2,5 +2,4 @@
 
 After all, I have decided to learn. 
 
-### WEBLINKS FOR RESOURCES HERE.
-
+It is the Third of December. 
