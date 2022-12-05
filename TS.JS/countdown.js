@@ -9,5 +9,4 @@ function updateCountdown () {
     let second = time % 60;
     countdownEl.innerHTML = '${minutes} : ${second}';
     time--;
-
 }

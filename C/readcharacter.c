@@ -7,6 +7,5 @@ int main (){
         putchar(c);
         c = getchar();
     }
-
 }
 
