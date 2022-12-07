@@ -5,5 +5,5 @@ to 10 without any remainder. */
 numbers from 1 to 20? */
 
 int main(void){
-    
+     
 }
