@@ -30,10 +30,16 @@ function subString(){
     console.log(new_upper);
     console.log(text.concat(" Also, ", new_text));
     console.log(text.split(","));
-    console.log(text.stIndexOf("Jackie"));
+    console.log(text.lastIndexOf("Jackie"));
         
 }
 
+function yearPlay(){
+    var currentYear = new Date().getTime();
+    console.log(currentYear);
+    
+}
 myfunction()
 arrayInput()
 subString()
+yearPlay()
