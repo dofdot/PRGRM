@@ -2,9 +2,28 @@
 
 const currentTime = new Date().getTime();
 
-class yearAndTime (){
+class yearAndTime {
+    constructor(time, year, month, day, minute, second) {
+        this.time = time;
+        this.year = year;
+        this.month = month;
+        this.day = day;
+        this.minute = minute;
+        this.second = second;
+    }
+
+    timeReadableFormulas(){
+        mainCountdown = 
+        
+    }
+
 
 }
+
+const showTime = new yearAndTime();
+showTime.timeshow();
+
+
 
 
 
