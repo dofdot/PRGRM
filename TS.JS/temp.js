@@ -35,7 +35,7 @@ function subString(){
 }
 
 function yearPlay(){
-    var currentYear = new Date().getTime();
+    var currentYear = new Date().getYear();
     console.log(currentYear);
     
 }
